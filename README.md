@@ -16,12 +16,12 @@
 ### 🎵 DubPlayer Free · Android music player
 
 <a href="https://github.com/Dubmasta/DubPlayer">
-  <img src="assets/dubplayer-card.png" width="640" alt="DubPlayer Free: the music player made for car stereos and Bluetooth speakers">
+  <img src="assets/dubplayer-card.png" width="640" alt="DubPlayer Free: your music, played loud on Bluetooth speakers, car stereos and aux">
 </a>
 
-The music player made for **car stereos and Bluetooth speakers**. Random play that keeps your music fresh, dub sound effects, Subwoofer Bass and per-song sound. Free, no ads, no account.
+Your music, played loud: on **Bluetooth speakers, car stereos and aux**. Random play that keeps your music fresh, dub sound effects, Subwoofer Bass and per-song sound. Free, no ads, no account.
 
-**Turn an old Android phone into a dedicated Bluetooth music player** for your car or speaker.
+**Turn an old Android phone into a dedicated music player** for your speakers, your stereo or your car.
 
 [**⬇ Download DubPlayer Free**](https://github.com/Dubmasta/DubPlayer/releases/latest) · [Project page](https://github.com/Dubmasta/DubPlayer) · [dubmasta.com/dubplayer](https://www.dubmasta.com/dubplayer/)
 
